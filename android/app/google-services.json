@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016066838635",
+    "project_id": "mirciler-chat-app-ysmn",
+    "storage_bucket": "mirciler-chat-app-ysmn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016066838635:android:5d83ae6e55b0a82d7b612e",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_ysmn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2OgK9ucOY9ardLndqlKQP8etWWhwTpy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
